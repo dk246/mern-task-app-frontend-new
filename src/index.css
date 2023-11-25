@@ -440,7 +440,7 @@ a:hover {
   background-color: var(--color-primary);
   display: flex;
   justify-content: center;
-  align-items: start;
+  /* align-items: start; */
   padding: 0 10px;
 }
 
